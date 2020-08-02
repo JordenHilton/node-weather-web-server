@@ -1,6 +1,6 @@
 {
   "name": "web-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "engines": {
     "node": "10.16.0",
@@ -8,7 +8,6 @@
   },
   "main": "index.js",
   "scripts": {
-    "build": "bower install && grunt build",
     "start": "node src/app.js"
   },
   "keywords": [],
